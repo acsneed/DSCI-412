@@ -1,6 +1,6 @@
 # DSCI-412
 
-This class has taught me a lot about predictive modeling and using the coding language R. 
+This class has taught me a lot about predictive modeling and using the coding language R. Each week taught new methods of analyzing data as well as ways to make predictions from a dataset.
 
 In week 1, the two main things I learned was the bias-variance tradeoff and the basics of evaluating linear regression models.
 
